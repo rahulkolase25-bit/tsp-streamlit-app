@@ -2,4 +2,5 @@
 __pycache__/
 *.pyc
 *.bin
+gh.exe
 .DS_Store
