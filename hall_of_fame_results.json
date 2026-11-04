@@ -1,0 +1,82 @@
+{
+  "a280": {
+    "nodes": 280,
+    "nn_km": 3157,
+    "two_opt_km": 2778,
+    "best_km": 2626,
+    "optimal_km": 2579,
+    "gap": "1.82%"
+  },
+  "d198": {
+    "nodes": 198,
+    "nn_km": 18240,
+    "two_opt_km": 16821,
+    "best_km": 15876,
+    "optimal_km": 15780,
+    "gap": "0.61%"
+  },
+  "d493": {
+    "nodes": 493,
+    "nn_km": 41660,
+    "two_opt_km": 36864,
+    "best_km": 36516,
+    "optimal_km": 35002,
+    "gap": "4.33%"
+  },
+  "fl417": {
+    "nodes": 417,
+    "nn_km": 15013,
+    "two_opt_km": 12801,
+    "best_km": 12380,
+    "optimal_km": 11861,
+    "gap": "4.38%"
+  },
+  "lin318": {
+    "nodes": 318,
+    "nn_km": 54019,
+    "two_opt_km": 45527,
+    "best_km": 43387,
+    "optimal_km": 42029,
+    "gap": "3.23%"
+  },
+  "pcb442": {
+    "nodes": 442,
+    "nn_km": 61979,
+    "two_opt_km": 53844,
+    "best_km": 52110,
+    "optimal_km": 50778,
+    "gap": "2.62%"
+  },
+  "pr152": {
+    "nodes": 152,
+    "nn_km": 85699,
+    "two_opt_km": 77617,
+    "best_km": 73682,
+    "optimal_km": 73682,
+    "gap": "0.00%"
+  },
+  "pr226": {
+    "nodes": 226,
+    "nn_km": 94683,
+    "two_opt_km": 84920,
+    "best_km": 81016,
+    "optimal_km": 80369,
+    "gap": "0.81%"
+  },
+  "pr439": {
+    "nodes": 439,
+    "nn_km": 131281,
+    "two_opt_km": 115202,
+    "best_km": 114419,
+    "optimal_km": 107217,
+    "gap": "6.72%"
+  },
+  "ts225": {
+    "nodes": 225,
+    "nn_km": 152493,
+    "two_opt_km": 130412,
+    "best_km": 126643,
+    "optimal_km": 126643,
+    "gap": "0.00%"
+  }
+}
